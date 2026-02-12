@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
