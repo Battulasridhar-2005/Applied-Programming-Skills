@@ -62,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
