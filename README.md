@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0401-binary-watch) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
