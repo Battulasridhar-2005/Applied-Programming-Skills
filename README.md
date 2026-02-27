@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 ## Prefix Sum
 |  |
