@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1408-string-matching-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
 ## Design
 |  |
