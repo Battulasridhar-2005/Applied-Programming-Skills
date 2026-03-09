@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Stack
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
