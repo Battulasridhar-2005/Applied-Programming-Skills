@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -120,13 +122,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [1396-design-underground-system](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 ## Sliding Window
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
