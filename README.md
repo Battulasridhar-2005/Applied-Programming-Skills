@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0198-house-robber) |
 ## String Matching
 |  |
 | ------- |
