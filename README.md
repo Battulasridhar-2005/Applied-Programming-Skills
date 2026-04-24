@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0169-majority-element) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
