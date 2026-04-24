@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [1603-design-parking-system](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
@@ -244,4 +250,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
