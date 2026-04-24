@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -217,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
