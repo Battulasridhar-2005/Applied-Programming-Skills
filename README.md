@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0474-ones-and-zeroes](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0474-ones-and-zeroes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 ## String Matching
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
