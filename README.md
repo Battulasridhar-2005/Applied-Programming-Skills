@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 ## String Matching
 |  |
 | ------- |
