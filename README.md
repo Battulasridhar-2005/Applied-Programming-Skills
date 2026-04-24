@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Tree
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Quickselect
 |  |
 | ------- |
@@ -269,4 +273,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
