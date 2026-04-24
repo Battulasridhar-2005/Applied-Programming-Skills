@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
