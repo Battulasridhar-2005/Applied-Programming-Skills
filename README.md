@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
+| [1763-longest-nice-substring](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0401-binary-watch) |
+| [1763-longest-nice-substring](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1763-longest-nice-substring](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
