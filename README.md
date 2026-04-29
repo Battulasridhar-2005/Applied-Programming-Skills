@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1314-matrix-block-sum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [1763-longest-nice-substring](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## String
@@ -366,5 +368,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
