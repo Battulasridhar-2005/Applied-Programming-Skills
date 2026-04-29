@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1314-matrix-block-sum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
