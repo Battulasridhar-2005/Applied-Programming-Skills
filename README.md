@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
