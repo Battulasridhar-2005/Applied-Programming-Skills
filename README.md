@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0169-majority-element) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
