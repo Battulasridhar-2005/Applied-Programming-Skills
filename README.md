@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [1603-design-parking-system](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
