@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0705-design-hashset) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [1763-longest-nice-substring](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## String
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0322-coin-change) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -305,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Battulasridhar-2005/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
